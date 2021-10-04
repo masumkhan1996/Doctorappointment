@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DoctorAppointmentApp</string>
+    <string name="title_activity_view_appointment">ViewAppointment</string>
+    <string name="title_activity_receptin3">Receptin3</string>
+</resources>
